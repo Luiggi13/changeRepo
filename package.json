@@ -2,6 +2,9 @@
   "name": "christian",
   "version": "2.0.0",
   "private": true,
+  "contributors": [
+    "Christian Llansola"
+  ],
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
