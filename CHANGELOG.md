@@ -1,5 +1,11 @@
 # christian
 
+## 2.0.0
+
+### Major Changes
+
+- 18c0aa4: New version Alpha ready to deploy to our clients.
+
 ## 1.1.0
 
 ### Minor Changes
