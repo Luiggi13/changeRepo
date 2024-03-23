@@ -1,6 +1,9 @@
 {
   "mode": "pre",
   "tag": "alpha",
+  "initialVersions": {
+    "christian": "2.0.0"
+  },
   "changesets": [
     "perfect-walls-hang"
   ]
