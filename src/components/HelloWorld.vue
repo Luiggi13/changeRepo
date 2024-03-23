@@ -7,7 +7,7 @@ const props = defineProps<{
 <template>
   <div class="hello">
     <h1>{{ props.msg }}</h1>
-    <p>Alpha version ready</p>
+    <p>Alpha version ready 2.0.1</p>
   </div>
 </template>
 
